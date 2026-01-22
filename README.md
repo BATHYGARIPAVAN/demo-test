@@ -4,6 +4,16 @@
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.0.1-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 
+---
+
+## Project Owner Information
+
+- **Name**: Bathygari Pavan  
+- **Employee ID**: EMP-XXXXXX  
+- **Domain**: Java Backend Development (Spring Boot, Microservices, Enterprise Systems)
+
+---
+
 ## Overview
 
 **Intelligent Enterprise Operations & Decision Platform (IEODP)** is a production-grade, enterprise-ready Java backend system built with Spring Boot. It provides a comprehensive solution for workflow management, user administration, audit logging, and seamless integration with Python/AI services.
@@ -1098,3 +1108,4 @@ Built with:
 **Version**: 1.0.0  
 **Last Updated**: 2026  
 **Maintainer**: IEODP Development Java Backend Team
+
