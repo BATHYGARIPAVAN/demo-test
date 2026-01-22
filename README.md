@@ -355,7 +355,7 @@ Transactions are used strategically:
 - **Correlation IDs** enable request tracing across services
 - **File logging** with rotation (10MB, 30 days retention)
 
-# Java Backend APIs Documentation
+# Java Backend APIs
 
 ## Base URL
 ```
